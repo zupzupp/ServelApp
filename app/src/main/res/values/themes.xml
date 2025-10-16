@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MiPrototipo2" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/red_servel</item>
+        <item name="colorPrimaryDark">@color/red_servel</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/red_servel</item>
+    </style>
+
+
+    <style name="Theme.ServelApp" parent="Base.Theme.ServelApp"/>
+
+</resources>

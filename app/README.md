@@ -37,16 +37,16 @@ Aplicación Android para visualizar información de Servel:
 ## Capturas de pantalla
 
 ### MenuActivity
-![MenuActivity](app/src/main/assets/screenshots/menu.png)
+![MenuActivity](ServelApp/app/src/main/assets/screenshots/menu.png)
 
 ### MapActivity (WebView)
-![MapActivity](app/src/main/assets/screenshots/map_activity.png)
+![MapActivity](ServelApp/app/src/main/assets/screenshots/map_activity.png)
 
 ### Google Maps externo
-![Google Maps](app/src/main/assets/screenshots/google_maps.png)
+![Google Maps](ServelApp/app/src/main/assets/screenshots/google_maps.png)
 
 ### PhotoActivity
-![PhotoActivity](app/src/main/assets/screenshots/photo_activity.png)
+![PhotoActivity](ServelApp/app/src/main/assets/screenshots/photo_activity.png)
 
 
 

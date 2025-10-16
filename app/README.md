@@ -2,10 +2,10 @@
 
 ## Resumen del proyecto
 Aplicación Android para visualizar información de Servel:
-- Abrir cámara y tomar foto
+- Abrir cámara y tomar foto 📸
 - Abrir mapas con Google Maps o WebView
-- Consultar web de Servel
-- Agregar evento al calendario
+- Consultar web de Servel 🗳️
+- Agregar evento al calendario 📆
 
 **Versión Android/AGP:** Android 13, AGP 8.1.1
 
@@ -13,19 +13,19 @@ Aplicación Android para visualizar información de Servel:
 
 ## Intents implementados
 
-### Implícitos (5)
+### Implícitos (5) ✨
 1. Abrir Google Maps (geo URI) → Click corto en btnMapa
 2. Abrir navegador web → btnServel
 3. Tomar foto con cámara → btnFoto (ACTION_IMAGE_CAPTURE)
 4. Abrir calendario → btnCalendario (ACTION_INSERT)
 5. Seleccionar imagen de galería → Trae una imagen desde la galería a la aplicación por una uri
 
-### Explícitos (3)
+### Explícitos (3)✨
 1. Abrir PhotoActivity → btnFoto
 2. Abrir MapActivity (WebView interno) → click largo btnMapa
 3. Abrir MapActivity -> click corto btnMapa deriva a una coordenada en específico.
 
-**Pasos de prueba:**
+**Pasos de prueba:** 📄
 1. Abrir app, presionar btnMapa corto → se abre Google Maps
 2. Presionar btnMapa largo → se abre MapActivity
 3. Presionar btnFoto → abre PhotoActivity y toma foto
@@ -34,19 +34,19 @@ Aplicación Android para visualizar información de Servel:
 
 ---
 
-## Capturas de pantalla
+## Capturas de pantalla 📱
 
 ### MenuActivity
-![MenuActivity](app/src/main/assets/screenshots/menu.png)
+![MenuActivity](src/main/assets/screenshots/menu.png)
 
 ### MapActivity (WebView)
-![MapActivity](app/src/main/assets/screenshots/map_activity.png)
+![MapActivity](src/main/assets/screenshots/map_activity.png)
 
 ### Google Maps externo
-![Google Maps](app/src/main/assets/screenshots/google_maps.png)
+![Google Maps](src/main/assets/screenshots/google_maps.png)
 
 ### PhotoActivity
-![PhotoActivity](app/src/main/assets/screenshots/photo_activity.png)
+![PhotoActivity](src/main/assets/screenshots/photo_activity.png)
 
 
 

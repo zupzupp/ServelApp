@@ -46,7 +46,7 @@ Aplicación Android para visualizar información de Servel:
 ![Google Maps](app/src/main/assets/screenshots/google_maps.png)
 
 ### PhotoActivity
-![PhotoActivity](app/src/main/assets/screenshots/photo.png)
+![PhotoActivity](app/src/main/assets/screenshots/photo_activity.png)
 
 
 
